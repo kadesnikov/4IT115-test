@@ -4,8 +4,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>kadesnikov</groupId>
 	<artifactId>test_case</artifactId>
+<<<<<<< HEAD
         <version>0.0.1-SNAPSHOT</version>
 <name>test_case</name>	
+=======
+<version>0.0.1-SNAPSHOT</version>	
+<description>příklad do testu</description>
+>>>>>>> master
 <dependencies>
 		<dependency>
 			<groupId>junit</groupId>
